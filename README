@@ -1,0 +1,8 @@
+Here's everything you need to know about stacks in terms of my program.
+
+You might be wondering what a stack is. To put it simply, it is a way computers can store data. Think of it as pouring water into a cup. 
+The water that first gets poured in goes to the bottom of the cup, and the water that last gets poured in goes to the top.
+If you want to drink (output) from the cup, then you have to start from the top of the cup. You can't magically drink from water halfway in the cup.
+That's the idea behind storing data as stacks. All data must be input to the top of the stack, and data can only be output from the top of said stack.
+
+1) when you save the program on your device, make sure that the text file is saved IN THE SAME FOLDER or else there will be issues.
